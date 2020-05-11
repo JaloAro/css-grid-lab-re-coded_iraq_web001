@@ -9,7 +9,8 @@ body {
   width: 100vw;
   /* your properties here */
   display: grid;
-
+grid-template-columns:auto;
+grid-template-rows:auto;
   
 }
 
