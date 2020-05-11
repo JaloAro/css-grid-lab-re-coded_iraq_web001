@@ -10,7 +10,7 @@ body {
   /* your properties here */
   display: grid;
 grid-template-columns:auto;
-
+grid-template-rows:auto;
   
 }
 
